@@ -1,2 +1,5 @@
 # Diary
-Miniproject creating a diary with microsoft form in Visual Studio, C#
+- Programming language used: C#
+- Tool used: Microsoft form in Visual Studio
+
+# FINISHED
