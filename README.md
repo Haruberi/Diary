@@ -35,3 +35,5 @@ Download Visual Studio
 * [![standard-readme compliant](https://img.shields.io/badge/standard_readme-HERE-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 * [![standard-readme compliant](https://img.shields.io/badge/readme_badges-HERE-green.svg?style=flat-square)](https://github.com/Naereen/badges/blob/master/README.md)
+
+* [![icons](https://img.shields.io/badge/free_icons-HERE-green.svg?style=flat-square)](https://simpleicons.org/?q=java)
